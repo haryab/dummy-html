@@ -2,15 +2,15 @@
 @media all and (max-width: 1000px) {
   .products {
     width: 50%;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
   }
 
   .top-wrapper h1 {
-    font-size: 100%x;
+    font-size: 32px;
   }
 
   .heading h2 {
-    font-size: 100%px;
+    font-size: 20px;
   }
   .flex-list {
     display: flex;
@@ -62,7 +62,7 @@
 
   /* Add CSS for menu-icon */
   .menu-icon {
-    display: block;
+    display: inline-block;
   }
 
   .top-wrapper h1 {

@@ -43,13 +43,13 @@ header {
   float: left;
 }
 
-.menu-icon {
-  color: white;
+.menu-icon span{
+	color: white;
   float: right;
   font-size: 25px;
   padding: 21px 0;
   /* Change the display property to none */
-  display:none;
+  display: none;
 }
 .header-right {
   float: right;
