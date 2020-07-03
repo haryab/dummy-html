@@ -215,10 +215,11 @@ li {
 	text-align: center;
 }
 .bottom-container {
-	margin-top: 20px;
+	margin-top: 10px;
 }
 .signup-notif {
-	padding-top: 20px
+	padding-top: 10px
+	padding-bottom: 10px
 }
 .signup-notif h2 {
 	font-size: 20px;
@@ -226,6 +227,7 @@ li {
 }
 .signup-notif h1 {
 	font-weight:normal;
+	padding-top: 10px
 
 }
 .browse-container {
