@@ -1,94 +1,9 @@
 /* For Tablets */
 @media all and (max-width: 1000px) {
-  .products {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-
-  .top-wrapper h1 {
-    font-size: 32px;
-  }
-
-  .heading h2 {
-    font-size: 20px;
-  }
-  .flex-list {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .flex-list li {
-    flex: auto;
-    width: 50%;
-  }
-  .btn-browse {
-    font-size: 25px;
-  }
+  
 }
 
 /* For Smartphones */
 @media all and (max-width: 670px) {
-  .products {
-    width: 100%;
-  }
-  /* Set the flex-direction of .flex-list */
-  .flex-list {
-    flex-direction: column;
-  }
 
-  /* Set the margin of the .flex-list li to 0 auto */
-  .flex-list li {
-    margin: 0 auto;
-  }
-  footer {
-    text-align: center;
-  }
-
-  .button-fav {
-    width: 100%;
-  }
-
-  .button-cart {
-    margin-bottom: 10px;
-  }
-
-  .top-wrapper {
-    text-align: left;
-  }
-
-  .header-right {
-    display: none;
-  }
-
-  .menu-icon {
-    display: block !important;
-  }
-
-  .top-wrapper h1 {
-    font-size: 100%px;
-    line-height: 30px;
-  }
-  .top-wrapper h2 {
-    font-size: 100%;
-    line-height: 20px;
-  }
-
-  .top-wrapper p {
-    font-size: 130%;
-    line-height: 20px;
-  }
-  .btn-browse {
-    margin-top: 20px;
-    font-size: 120%;
-    width: 60%;
-    height: 30%;
-  }
-  .signup-notif h1 {
-    font-size:100%;
-  }
-  .signup-notif h2{
-    font-size:100%%;
-  }
-  .btn-signup-big {
-    font-size: 100%;
-  }
 }
