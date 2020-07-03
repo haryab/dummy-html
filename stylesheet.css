@@ -44,7 +44,7 @@ header {
   float: right;
   font-size: 25px;
   padding: 21px 0;
-  display:none!important;
+  display:none !important;
 }
 
 .header-left {
@@ -217,6 +217,9 @@ li {
 .bottom-container {
 	margin-top: 20px;
 }
+.signup-notif {
+	padding-top: 20px
+}
 .signup-notif h2 {
 	font-size: 20px;
 	font-weight:bold;
@@ -232,8 +235,8 @@ li {
 }
 .btn-browse {
 	margin-top:50px;
-	width: 50%;
-	height: 30%;
+	width: 35%;
+	height: 40%;
 	background-color: green;
 	color: white;
 	font-size: 40px;
